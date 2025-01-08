@@ -1,0 +1,20 @@
+#Overview 
+{width: 1000px;
+    /* position: absolute; */
+    right: 450PX;
+ }
+
+.button{
+    display: block;
+    width: 75px;
+    height: 75px;
+    border: 2px solid black;
+    border-radius: 50%;
+    color: blue;
+    background-color: no-repeat;
+    background-size: cover;
+}
+ 
+ .Thick {
+    background-image: url(../img/mcdonalds-Fries-Small_product-header-mobile.jpg);
+ }
