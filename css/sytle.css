@@ -16,7 +16,17 @@
 }
  
  .Thick {
-    background-image: url(../img/mcdonalds-Fries-Small_product-header-mobile.jpg);
+    background-image: url("../img/LukeFries.jpg");
+ 
+ }
+
+ .Thin {
+    background-image: url("../img/BasicFries.jpg");
+ 
+ }
+
+ .Steak {
+    background-image: url("../img/MegalFries.avif");
  
  }
 
