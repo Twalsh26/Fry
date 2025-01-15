@@ -1,11 +1,12 @@
-#Overview 
+.overview 
 {width: 1000px;
-    position: absolute;
-    right: 450PX;
+    /* position: absolute; */
+    height: 700PX;
+
  }
 
 .Button{
-    display: block;
+    display: flex;
     width: 75px;
     height: 75px;
     border: 2px solid black;
@@ -40,3 +41,9 @@ background: radial-gradient(circle, rgba(255,238,0,1) 0%, rgba(255,138,25,1) 50%
 {
 text-align: center;
  }
+
+
+ .container{
+    text-align: center;
+ }
+ 
